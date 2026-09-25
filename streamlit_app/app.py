@@ -15,6 +15,9 @@
 #
 # Campos     : Nome, idade, convênio, prioridade do atendimento e
 #              motivo da consulta / observações.
+#
+# https://unicamp-cadastro-pacientes-tjyudzkkdcpdpryn7kwwm4.streamlit.app/
+#
 # =============================================================================
 
 """Execute: streamlit run streamlit_app/app.py"""
