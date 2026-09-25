@@ -1,3 +1,22 @@
+# =============================================================================
+# UNICAMP — Universidade Estadual de Campinas
+# Curso      : Data Science
+# Disciplina : Aplicações em Data Science
+# Professor  : Francisco Fambrini
+#
+# Aluno      : Edman Rodrigues Miranda
+# RA         : 2026600198
+# E-mail     : edmanrm@gmail.com
+#
+# Atividade  : Aula 1 — Cadastro de Pacientes
+# Objetivo   : Desenvolver a mesma interface web em Gradio e Streamlit,
+#              comparando as bibliotecas na prática e armazenando os
+#              dados coletados em arquivo CSV.
+#
+# Campos     : Nome, idade, convênio, prioridade do atendimento e
+#              motivo da consulta / observações.
+# =============================================================================
+
 """Validação e persistência compartilhadas pelas duas interfaces."""
 import csv
 import math
